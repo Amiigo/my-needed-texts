@@ -35,4 +35,6 @@ git merge thename -> merges the branch you are with the branch name you provide,
 
 git remote -v  ---> checking if its connected to a remote repository
 
+git remote url  , url is where the repo you created lies 
 
+git push -u origin master -> to push your code into the master branch of the repo you remoted
