@@ -31,3 +31,8 @@ git commit -a -m 'the first branch' --> it adds into the stagged area and commit
 
 git merge thename -> merges the branch you are with the branch name you provide,   thename == the one with the empty data that needs data from the other one 
 
+
+
+git remote -v  ---> checking if its connected to a remote repository
+
+
