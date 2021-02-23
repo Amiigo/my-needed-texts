@@ -29,5 +29,5 @@ git checkout branch-name -> to switch between branches
 git commit -a -m 'the first branch' --> it adds into the stagged area and commits it
 
 
-git merge thename -> merges the branch you are with the branch name you provide
+git merge thename -> merges the branch you are with the branch name you provide,   thename == the one with the empty data that needs data from the other one 
 
