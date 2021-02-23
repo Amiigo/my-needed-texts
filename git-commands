@@ -9,3 +9,9 @@ git commit -m "message" -> to commit files and directories into the staged area 
 
 git diff -> difference between staged and working directory   ex: diff index.html  or diff .-> to see all changes
 
+
+
+git status -s -> tells you files that has been modified in single line
+
+
+
