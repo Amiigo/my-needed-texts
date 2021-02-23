@@ -13,5 +13,17 @@ git diff -> difference between staged and working directory   ex: diff index.htm
 
 git status -s -> tells you files that has been modified in single line
 
+git log -> shows you commits you have done 
+
+git log --oneline -> shows you commits in one line
+
+git branch -> to see the branch you are working with
+
+git branch new-branch -> to create new branch 
+
+git branch -d new-branch -> to delete the branch
+
+git checkout branch-name -> to switch between branches 
 
 
+git commit -a -m 'the first branch' --> it adds into the stagged area and commits it
