@@ -1,0 +1,17 @@
+git init-> initializer git repository
+rm -rf .git -> remove git repository
+git status -> untracked files
+
+
+
+create gitignore file
+        $ echo "*.py[cod]
+        .DS_Store
+        __pycache__/
+        *.py[cod]
+        *$py.class
+        " > .gitignore
+        
+git ignore-> just to outtake files we dont want
+
+    

@@ -1,0 +1,23 @@
+ranger -> playing with files in your terminal Q to exit it
+
+youtube -dl url  -> allows you to download youtube videos directly 
+
+
+trash -> shows you the trash or you can move things to the trash through trash-cli , its a python library
+                trash-put           trash files and directories.
+                trash-empty         empty the trashcan(s).
+                trash-list          list trashed files.
+                trash-restore       restore a trashed file.
+                trash-rm            remove individual files from the trashcan.
+
+
+
+                
+                
+                
+htop-> beutifuul system monitor,  kill processess by hovering over it and typing f9 and enter,   f2 for the setup,   f10 to get out of there
+
+pfetch -> shows you the system and the kernel you are running
+
+
+ncdu-> disk analyzer, it scans your disk   ctrl+c to get out

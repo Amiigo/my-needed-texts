@@ -1,0 +1,11 @@
+git init -> initialize empty git 
+
+git add . -> add files into the staged area   
+
+git status -> cheking the status of the files or directories
+
+
+git commit -m "message" -> to commit files and directories into the staged area with the message
+
+git diff -> difference between staged and working directory   ex: diff index.html  or diff .-> to see all changes
+

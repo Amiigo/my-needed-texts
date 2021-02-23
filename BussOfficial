@@ -1,0 +1,37 @@
+bussess
+    buss_name
+    buss_place
+    buss_description
+    
+
+    
+    
+    
+Trip
+
+SEAT
+
+Ticket
+
+places
+
+#trying to find out the git
+
+<-----<------BUSMODULES----->---->
+
+USERS APP
+    login ->models
+    register ->models
+    
+
+----->---->Related to ----->
+customers
+    ForeignKey to bussess
+
+reservations
+
+
+
+
+
+

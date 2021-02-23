@@ -1,0 +1,9 @@
+THINGS TO DO AFTER INSTALLING GARUDA LINUX
+
+
+                #1- Terminal (pacman -Syy)
+                #2-Teminal(pacman -Sy snapd)-installing snapd
+                #3-printing support (goto garuda assistant and find priting support)
+                #4-Refresh mirror lists inside garuda assistant
+                #5-clear logs and caches from time to time
+                
